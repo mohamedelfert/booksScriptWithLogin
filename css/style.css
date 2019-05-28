@@ -1,0 +1,129 @@
+#page{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.title{
+	font-family: cursive;
+	color: #268;
+}
+.btn{
+	margin-top: 10px;
+}
+.table{
+	margin-top: 15px;
+}
+#htr{
+	font-family: courier;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+/**** sign_up.php *****/
+
+form.signUp{
+	width: 400px;
+	height: auto;
+	background-color: #e3e1e1;
+	margin: 10px auto;
+	padding: 5px;
+	text-align: center;
+	border: 2px solid #222;
+	border-radius: 10px;
+}
+form.signUp label{
+	display: block;
+	font-weight: bold;
+	font-size: 15px;
+	color: #434242;
+	margin-bottom: 5px;
+}
+form.signUp input{
+	width: 300px;
+	height: 30px;
+	padding-left: 30px;
+	margin-bottom: 5px;
+}
+form.signUp i{
+	position: absolute;
+	left: 525px;
+	margin-top: 10px;
+}
+form.signUp textarea{
+	display: block;
+	height: 180px;
+	width: 350px;
+	max-height: 200px;
+	max-width: 350px;
+	padding: 10px;
+	margin-left: 14px;
+}
+form.signUp #sendbut{
+	width: 120px;
+	height: 40px;
+	padding: 5px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 15px;
+}
+form.signUp #sendf{
+	position: absolute;
+	left: 565px;
+	margin-top: 23px;
+}
+form.signUp a{
+	font-size: 15px;
+	margin-left: 5px;
+}
+
+
+/***** index.php {login} *****/
+
+form.login{
+    width: 300px;
+    height: 250px;
+    background-color: #e3e1e1;
+    margin: 150px auto;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #222;
+    border-radius: 10px;
+}
+form.login label{
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    color: dimgray;
+    margin-bottom: 5px;
+}
+form.login input{
+    width: 250px;
+    height: 30px;
+    padding-left: 25px;
+    margin-bottom: 5px;
+}
+form.login i{
+    position: absolute;
+    left: 550px;
+    margin-top: 10px;
+}
+form.login #sendbut{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+form.login #sendf{
+    position: absolute;
+    left: 630px;
+    margin-top: 87px;
+}
+form.login a{
+    display: block;
+    font-size: 15px;
+    margin: 5px;
+}
+
+
